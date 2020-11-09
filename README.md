@@ -6,7 +6,9 @@ This is the minimum command that will print the result to the stdout.
 ```sh
 stripper input.csv -s n -e m
 ```
-Where n are m are the indexes of the columns that you want to strip from the file.
+|---|---|
+|-s, --start   |First index to start stripping.|
+|-e, --end  |Last index to be stripped (included).|
 
 Optional parameters:
 |Parameter|Meaning|
