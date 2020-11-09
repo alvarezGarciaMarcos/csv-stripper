@@ -1,0 +1,8 @@
+setup.py
+stripper.py
+csv_stripper.egg-info/PKG-INFO
+csv_stripper.egg-info/SOURCES.txt
+csv_stripper.egg-info/dependency_links.txt
+csv_stripper.egg-info/entry_points.txt
+csv_stripper.egg-info/requires.txt
+csv_stripper.egg-info/top_level.txt
