@@ -1,6 +1,10 @@
 # What is this?
 A simple CLI tool to strip rows or columns from a CSV file.
 
+# How to install
+Using pip
+``` pip install csv-stripper```
+
 # How to use
 This is the minimum command that will print the result to the stdout.
 ```sh
